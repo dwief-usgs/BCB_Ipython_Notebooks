@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+{ "type": "Feature", "properties": { "featureuri": "00002971-ed66-11e6-b167-1fcf3bf50251", "title": "20595156", "sfrspatcert": "https:\/\/www.sciencebase.gov\/vocab\/term\/5822257ee4b0b3d9add24304", "ftypeb": "https:\/\/www.sciencebase.gov\/vocab\/term\/58a487eee4b0f974afcf03b2", "ftyped": "https:\/\/www.sciencebase.gov\/vocab\/term\/58a49caee4b0f974afcf03b3" }, "geometry": { "type": "Point", "coordinates": [ -114.54780159099994, 38.005420469000057, 0.0 ] } },
+{ "type": "Feature", "properties": { "featureuri": "00002972-ed66-11e6-b168-8fc1348c3a58", "title": "20595158", "sfrspatcert": "https:\/\/www.sciencebase.gov\/vocab\/term\/5822257ee4b0b3d9add24304", "ftypeb": "https:\/\/www.sciencebase.gov\/vocab\/term\/58a487eee4b0f974afcf03b2", "ftyped": "https:\/\/www.sciencebase.gov\/vocab\/term\/58a49caee4b0f974afcf03b3" }, "geometry": { "type": "Point", "coordinates": [ -114.57803086599989, 38.00019370800004, 0.0 ] } },
+{ "type": "Feature", "properties": { "featureuri": "00003e24-ed64-11e6-b344-0f2972444f8e", "title": "12380253", "sfrspatcert": "https:\/\/www.sciencebase.gov\/vocab\/term\/5822257ee4b0b3d9add24304", "ftypeb": "https:\/\/www.sciencebase.gov\/vocab\/term\/58a487eee4b0f974afcf03b2", "ftyped": "https:\/\/www.sciencebase.gov\/vocab\/term\/58a49caee4b0f974afcf03b3" }, "geometry": { "type": "Point", "coordinates": [ -109.26162984299992, 46.879115951000074, 0.0 ] } }
+]
+}
